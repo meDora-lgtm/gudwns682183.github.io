@@ -1,4 +1,4 @@
 title: Hyungjun Kwon
 # logo: 
-# show_downloads: True
-theme: architect
+show_downloads: True
+theme: jekyll-theme-minimal
